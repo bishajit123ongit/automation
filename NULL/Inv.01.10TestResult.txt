@@ -1,0 +1,24 @@
+NULL~Current test step indicator string for reporting: Error Message:	FrmSubTestRelativeFolderPathCreate:: java.lang.NullPointerException
+	at java.base/java.io.File.<init>(File.java:279)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubPathConcate(FrameworkSubRoutine.java:661)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubTestRelativeFolderPathCreate(FrameworkSubRoutine.java:635)
+	at com.automation.ui.TestEngine.main(TestEngine.java:81)
+.
+NULL~Current test step indicator string for reporting: Error Message:	FrmSubTestRelativeFolderPathCreate:: java.lang.NullPointerException
+	at java.base/java.io.File.<init>(File.java:279)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubPathConcate(FrameworkSubRoutine.java:661)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubTestRelativeFolderPathCreate(FrameworkSubRoutine.java:635)
+	at com.automation.ui.TestEngine.main(TestEngine.java:82)
+.
+NULL~Current test step indicator string for reporting: Error Message:	FrmSubTestRelativeFolderPathCreate:: java.lang.NullPointerException
+	at java.base/java.io.File.<init>(File.java:279)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubPathConcate(FrameworkSubRoutine.java:661)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubTestRelativeFolderPathCreate(FrameworkSubRoutine.java:635)
+	at com.automation.ui.TestEngine.main(TestEngine.java:83)
+.
+Test Step S1: Error Message:	FrmSubMethodInvoke:: Object specific system error occurred! 
+Test Step S1: UtlOnFailTestContinue::	Return Code --> FAIL.
+Test Step S1: Error Message:	ScreenShotCapture:: java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "screenshot" is null
+	at com.automation.ui.methods.GenericMethods.ScreenShotCapture(GenericMethods.java:363)
+	at com.automation.ui.TestEngine.main(TestEngine.java:170)
+.

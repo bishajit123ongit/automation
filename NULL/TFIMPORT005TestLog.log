@@ -1,0 +1,25 @@
+17:58:37:796 Error Message:	FrmSubTestRelativeFolderPathCreate:: java.lang.NullPointerException
+	at java.base/java.io.File.<init>(File.java:279)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubPathConcate(FrameworkSubRoutine.java:703)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubTestRelativeFolderPathCreate(FrameworkSubRoutine.java:677)
+	at com.automation.ui.TestEngine.main(TestEngine.java:81)
+.
+17:58:37:796 Error Message:	FrmSubTestRelativeFolderPathCreate:: java.lang.NullPointerException
+	at java.base/java.io.File.<init>(File.java:279)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubPathConcate(FrameworkSubRoutine.java:703)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubTestRelativeFolderPathCreate(FrameworkSubRoutine.java:677)
+	at com.automation.ui.TestEngine.main(TestEngine.java:82)
+.
+17:58:37:797 Error Message:	FrmSubTestRelativeFolderPathCreate:: java.lang.NullPointerException
+	at java.base/java.io.File.<init>(File.java:279)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubPathConcate(FrameworkSubRoutine.java:703)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubTestRelativeFolderPathCreate(FrameworkSubRoutine.java:677)
+	at com.automation.ui.TestEngine.main(TestEngine.java:83)
+.
+17:58:37:798 Test Step: Test Step S1
+17:58:37:798 Call Entry Pre Parse                              :	<TestMain Row 003> AppLaunch::	GblBrowserType,TRUE,NULL.
+17:58:37:799 Call Entry Post Parse                             :	<TestMain Row 003> AppLaunch::	[CHROME, TRUE, NULL].
+17:58:47:292 Call Exit                                         :	<TestMain Row 003> AppLaunch::	Return Code --> PASS.
+17:58:47:294 Call Entry Pre Parse                              :	<TestMain Row 004> ObjectVisibilityAssert::	GuiUserName,GblMaxWaitTime,NULL.
+17:58:47:294 Call Entry Post Parse                             :	<TestMain Row 004> ObjectVisibilityAssert::	[GuiUserName, 30, NULL].
+17:59:59:138 Call Exit                                         :	<TestMain Row 004> ObjectVisibilityAssert::	Return Code --> PASS.

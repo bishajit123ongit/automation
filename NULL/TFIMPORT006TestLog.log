@@ -1,0 +1,29 @@
+11:49:08:368 Error Message:	FrmSubTestRelativeFolderPathCreate:: java.lang.NullPointerException
+	at java.base/java.io.File.<init>(File.java:279)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubPathConcate(FrameworkSubRoutine.java:703)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubTestRelativeFolderPathCreate(FrameworkSubRoutine.java:677)
+	at com.automation.ui.TestEngine.main(TestEngine.java:81)
+.
+11:49:08:371 Error Message:	FrmSubTestRelativeFolderPathCreate:: java.lang.NullPointerException
+	at java.base/java.io.File.<init>(File.java:279)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubPathConcate(FrameworkSubRoutine.java:703)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubTestRelativeFolderPathCreate(FrameworkSubRoutine.java:677)
+	at com.automation.ui.TestEngine.main(TestEngine.java:82)
+.
+11:49:08:374 Error Message:	FrmSubTestRelativeFolderPathCreate:: java.lang.NullPointerException
+	at java.base/java.io.File.<init>(File.java:279)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubPathConcate(FrameworkSubRoutine.java:703)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubTestRelativeFolderPathCreate(FrameworkSubRoutine.java:677)
+	at com.automation.ui.TestEngine.main(TestEngine.java:83)
+.
+11:49:08:378 Test Step: Test Step S1
+11:49:08:379 Call Entry Pre Parse                              :	<TestMain Row 003> UtlOnFailTestContinue::	NULL.
+11:49:08:380 Call Entry Post Parse                             :	<TestMain Row 003> UtlOnFailTestContinue::	[NULL].
+11:49:08:383 Error Message:	FrmSubMethodInvoke:: java.lang.NoSuchMethodException: com.automation.ui.methods.FunctionalMethods.UtlOnFailTestContinue(java.lang.String)
+	at java.base/java.lang.Class.getMethod(Class.java:2201)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubMethodInvoke(FrameworkSubRoutine.java:836)
+	at com.automation.ui.TestEngine.main(TestEngine.java:151)
+.
+11:49:08:385 Call Exit                                         :	<TestMain Row 003> UtlOnFailTestContinue::	Return Code --> FAIL.
+11:49:08:389 Test Exit:	End Of Test. Overall status FAIL.
+

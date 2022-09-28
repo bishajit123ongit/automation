@@ -1,0 +1,18 @@
+NULL~Current test step indicator string for reporting: Error Message:	FrmSubTestRelativeFolderPathCreate:: java.lang.NullPointerException
+	at java.base/java.io.File.<init>(File.java:279)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubPathConcate(FrameworkSubRoutine.java:703)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubTestRelativeFolderPathCreate(FrameworkSubRoutine.java:677)
+	at com.automation.ui.TestEngine.main(TestEngine.java:81)
+.
+NULL~Current test step indicator string for reporting: Error Message:	FrmSubTestRelativeFolderPathCreate:: java.lang.NullPointerException
+	at java.base/java.io.File.<init>(File.java:279)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubPathConcate(FrameworkSubRoutine.java:703)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubTestRelativeFolderPathCreate(FrameworkSubRoutine.java:677)
+	at com.automation.ui.TestEngine.main(TestEngine.java:82)
+.
+NULL~Current test step indicator string for reporting: Error Message:	FrmSubTestRelativeFolderPathCreate:: java.lang.NullPointerException
+	at java.base/java.io.File.<init>(File.java:279)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubPathConcate(FrameworkSubRoutine.java:703)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubTestRelativeFolderPathCreate(FrameworkSubRoutine.java:677)
+	at com.automation.ui.TestEngine.main(TestEngine.java:83)
+.

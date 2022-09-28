@@ -1,0 +1,35 @@
+17:43:01:155 Error Message:	FrmSubTestRelativeFolderPathCreate:: java.lang.NullPointerException
+	at java.base/java.io.File.<init>(File.java:279)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubPathConcate(FrameworkSubRoutine.java:661)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubTestRelativeFolderPathCreate(FrameworkSubRoutine.java:635)
+	at com.automation.ui.TestEngine.main(TestEngine.java:81)
+.
+17:43:01:156 Error Message:	FrmSubTestRelativeFolderPathCreate:: java.lang.NullPointerException
+	at java.base/java.io.File.<init>(File.java:279)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubPathConcate(FrameworkSubRoutine.java:661)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubTestRelativeFolderPathCreate(FrameworkSubRoutine.java:635)
+	at com.automation.ui.TestEngine.main(TestEngine.java:82)
+.
+17:43:01:156 Error Message:	FrmSubTestRelativeFolderPathCreate:: java.lang.NullPointerException
+	at java.base/java.io.File.<init>(File.java:279)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubPathConcate(FrameworkSubRoutine.java:661)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubTestRelativeFolderPathCreate(FrameworkSubRoutine.java:635)
+	at com.automation.ui.TestEngine.main(TestEngine.java:83)
+.
+17:43:01:157 Test Step: Test Step S1
+17:43:01:157 Call Entry Pre Parse                              :	<TestMain Row 003> UtlOnFailTestContinue::	NULL.
+17:43:01:157 Call Entry Post Parse                             :	<TestMain Row 003> UtlOnFailTestContinue::	[NULL].
+17:43:01:158 Error Message:	FrmSubMethodInvoke:: java.lang.ClassNotFoundException: com.mislbd.ababilng.testautomation.ui.methods.FunctionalMethods
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:606)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:377)
+	at com.automation.ui.methods.FrameworkSubRoutine.FrmSubMethodInvoke(FrameworkSubRoutine.java:793)
+	at com.automation.ui.TestEngine.main(TestEngine.java:151)
+.
+17:43:01:158 Call Exit                                         :	<TestMain Row 003> UtlOnFailTestContinue::	Return Code --> FAIL.
+17:43:01:161 Error Message:	ScreenShotCapture:: java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "screenshot" is null
+	at com.automation.ui.methods.GenericMethods.ScreenShotCapture(GenericMethods.java:363)
+	at com.automation.ui.TestEngine.main(TestEngine.java:170)
+.
